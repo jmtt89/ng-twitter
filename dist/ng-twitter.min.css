@@ -1,5 +1,5 @@
 /** 
-* @license ng-twitter - v0.0.2
+* @license ng-twitter - v0.1.0
 * (c) 2013 Julien VALERY https://github.com/darul75/ng-twitter
 * License: MIT 
 **/
